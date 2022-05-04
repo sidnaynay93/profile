@@ -1,0 +1,57 @@
+body {
+  background-color: rgb(254, 249, 255);
+  font-family: 'Questrial', sans-serif;
+  color: rgb(159, 159, 237);
+  font-size: 20px;
+  line-height: 26px;
+  }
+h1, h2, h3 {
+  color: rgb(43, 45, 66) ;
+  font-family: 'Questrial', sans-serif;
+  font-size: 45px ;
+  line-height: 35px;
+  }
+
+  a {
+    color:rgb(67, 62, 63);
+    text-decoration: underline;
+  }
+
+  .card-white{
+    background: white;
+    box-shadow: rgba(0, 0, 0, 0.8);
+    padding: 40px;
+    margin: 16px auto;
+    width: 500px;
+    text-align: center;
+    border-radius: 4px;
+  }
+
+  .card-intro{
+    background: white;
+    box-shadow: rgba(0, 0, 0, 0.8);
+    length: 40px;
+    margin: 16px auto;
+    width: 500px;
+    text-align: center;
+    border-radius: 4px;
+  }
+
+  .btn-blue{
+    background-color: rgb(142, 142, 234);
+    color: white;
+    padding: 8px 16px;
+    border-radius: 4px;
+  }
+  .btn-blue:hover{
+    background-color: rgb(109, 109, 235);
+  }
+  .list-inline > li {
+    display: inline-block;
+    padding: 0px 20px;
+  }
+
+  .list-inline {
+    list-style: none;
+    padding-left: 0px;
+  }
